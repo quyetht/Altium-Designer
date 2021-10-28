@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetLED1_1 Pin=R1-1
+Removed Pin From Net: NetName=Net5V_1 Pin=R1-2
+Removed Pin From Net: NetName=NetLED2_1 Pin=R2-1
+Removed Pin From Net: NetName=Net12V_1 Pin=R2-2
+Added Component: Designator=R1(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Pin To Net: NetName=Net5V_1 Pin=R1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=R2-1
+Added Pin To Net: NetName=Net12V_1 Pin=R2-2
+Added Member To Class: ClassName=Shematic Member=Component 5V Header 2
+Added Member To Class: ClassName=Shematic Member=Component 12V Header 2
+Added Member To Class: ClassName=Shematic Member=Component Nguon Header 2
+Added Room: Name=Shematic

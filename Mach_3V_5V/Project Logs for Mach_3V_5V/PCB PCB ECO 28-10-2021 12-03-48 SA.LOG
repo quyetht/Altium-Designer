@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=Net5V_1 Pin=5V-1
+Removed Pin From Net: NetName=GND Pin=5V-2
+Removed Pin From Net: NetName=Net12V_1 Pin=12V-1
+Removed Pin From Net: NetName=GND Pin=12V-2
+Removed Pin From Net: NetName=NetDB1_3 Pin=Nguon-1
+Removed Pin From Net: NetName=NetDB1_2 Pin=Nguon-2
+Added Component: Designator=5V(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=12V(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=Nguon(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net5V_1 Pin=5V-1
+Added Pin To Net: NetName=GND Pin=5V-2
+Added Pin To Net: NetName=Net12V_1 Pin=12V-1
+Added Pin To Net: NetName=GND Pin=12V-2
+Added Pin To Net: NetName=NetDB1_3 Pin=Nguon-1
+Added Pin To Net: NetName=NetDB1_2 Pin=Nguon-2
+Added Member To Class: ClassName=Shematic Member=Component 5V Header 2
+Added Member To Class: ClassName=Shematic Member=Component 12V Header 2
+Added Member To Class: ClassName=Shematic Member=Component Nguon Header 2
